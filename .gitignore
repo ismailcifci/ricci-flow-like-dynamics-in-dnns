@@ -1,0 +1,67 @@
+# Python caches
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Editor and OS files
+.vscode/
+.idea/
+.cursor/
+.cursorignore
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Local AI assistant / agent metadata
+.codex/
+.agents/
+.claude/
+.aider*
+AGENTS.local.md
+CLAUDE.local.md
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+
+# Local environment files
+.env
+.env.*
+
+# Model/checkpoint artifacts
+*.pt
+*.pth
+*.ckpt
+*.h5
+*.keras
+checkpoint.json
+heartbeat.json
+
+# Large generated arrays and archives
+*.npy
+*.npz
+*.zip
+*.tar
+*.tar.gz
+*.7z
+
+# TensorBoard and experiment runtime folders
+runs/
+wandb/
+lightning_logs/

@@ -1,0 +1,2 @@
+n_configurations,overall_spearman_r,overall_spearman_p,overall_pearson_r,overall_pearson_p,multivar_r_all_coef,multivar_r_all_tvalue,multivar_r_all_pvalue,multivar_r2,multivar_adj_r2
+34,0.15688077979336834,0.37558919901867294,0.06149000252396034,0.7297476128560635,-0.0024179102924160056,-0.8598559462667897,0.39957852040013275,0.9999104429646559,0.9998592675158878

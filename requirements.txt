@@ -1,0 +1,21 @@
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+tqdm
+
+# Deep learning backends used by different experiment families
+torch
+torchvision
+tensorflow
+keras
+
+# Notebook/runtime utilities
+jupyter
+notebook
+ipykernel
+
+# Used by reference/local Ricci code
+networkx
+POT

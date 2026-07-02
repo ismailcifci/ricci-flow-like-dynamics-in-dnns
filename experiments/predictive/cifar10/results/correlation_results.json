@@ -1,0 +1,11 @@
+{
+  "dataset": "CIFAR-10 Cars vs Planes",
+  "sign_convention": "",
+  "pearson_r": 0.1528805196993846,
+  "pearson_p": 0.3160520378144511,
+  "spearman_r": 0.19644268774703558,
+  "spearman_p": 0.19589367899791207,
+  "kendall_tau": 0.11313131313131311,
+  "kendall_p": 0.27324518730467084,
+  "n": 45
+}
