@@ -114,6 +114,5 @@ Important saved outputs include:
 
 ## Notes
 
-- The project mixes TensorFlow/Keras scripts and PyTorch notebooks because different experiment families were developed separately.
 - `reference_code/` is kept for comparison with external implementations, not as the primary project source.
 - Large experiments can be slow because k-NN graph construction, shortest-path computation, and curvature calculation are repeated across layers, epochs, architectures, and k values.
