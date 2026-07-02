@@ -24,7 +24,7 @@ ENV/
 Thumbs.db
 desktop.ini
 
-# Local AI assistant / agent metadata
+# AI assistant / agent metadata
 .codex/
 .agents/
 .claude/
